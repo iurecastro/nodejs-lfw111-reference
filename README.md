@@ -7,7 +7,7 @@
 A minimal, focused quick reference guide for the **Linux Foundation LFW111: Introduction to Node.js** certification exam. This interactive cheat sheet helps you review essential concepts, code patterns, and exam strategies efficiently.
 
 ## Live Demo
-[View on GitHub Pages](https://your-username.github.io/nodejs-lfw111-reference/)
+[View on GitHub Pages](https://iurecastro.github.io/nodejs-lfw111-reference/)
 
 ## Purpose
 This tool is designed for:
